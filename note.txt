@@ -1,0 +1,4 @@
+git init khởi tạo remote local 
+git remote add origin từ local 
+git remote show origin hiển thị đường dẫn đang được kết nối 
+git push là đưa source từ local lên remote
